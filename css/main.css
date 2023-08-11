@@ -1,0 +1,139 @@
+body{
+    color:whitesmoke;
+    background-color:rgb(34, 34, 34);
+    margin: 0%;
+    
+}
+
+header{
+    width:auto;
+    height:50px;
+    background-color:orange;
+    text-align:center;
+    
+
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:auto;
+}
+
+table, th, td {
+    border:1px solid rgb(255, 166, 0);
+    text-align: center;
+}
+
+
+
+#footer{
+
+    bottom:0;
+    position:absolute;
+    width:100%;
+    height:50px;
+    background-color:orange;
+    text-align:center;
+}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+th img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#eenummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(255, 140, 0);
+
+
+}
+#ennfoto{
+    height:50px;
+    width: 50px;
+  
+}
+#tweenummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(255, 94, 14);
+
+
+}
+#tweefoto{
+    height:50px;
+    width: 50px;
+  
+}
+#drienummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(255, 69, 0);
+
+
+}
+#driefoto{
+    height:50px;
+    width: 50px;
+
+}
+#viernummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(255, 99, 71);
+}
+#vierfoto{
+    height:50px;
+    width: 50px;
+
+}
+#vijfnummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(226, 99, 16);
+
+}
+#vijffoto{
+    height:50px;
+    width: 50px;
+
+}
+#zesnummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(245, 118, 26);
+}
+#zesfoto{
+    height:50px;
+    width: 50px;
+
+}
+#zevennummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(253, 103, 58);
+ 
+}
+#zevenfoto{
+    height:50px;
+    width: 50px;
+}
+#achtnummer{
+    height:50px;
+    width: 50px;
+    background-color:rgb(255, 168, 54);
+}
+#achtfoto{
+    height:50px;
+    width: 50px;
+}
